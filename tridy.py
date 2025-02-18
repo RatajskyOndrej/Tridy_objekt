@@ -35,3 +35,7 @@ teacher1 = Teacher("Pan Smith", 45, "Mathematics")
 # Výpis informací o studentech a učitelích
 student1.introduce()
 teacher1.introduce()
+#aplikuj modifikaci
+#udelej minimalen 5 veci (jmeno prijmeni trida obor skola )
+#metoda vypsat
+#novy objekt student
