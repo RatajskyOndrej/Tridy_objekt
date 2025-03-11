@@ -113,4 +113,4 @@ student1.set_grades()
 student1.display_info()
 
 #promena ve ktera je uloyena instance se kterou pracuju
-#innit se rezervuje pamet pro vsechny objekty
+#innit se rezervuje pamet pro vsechny objekt
