@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Tridy_objekt.iml" filepath="$PROJECT_DIR$/.idea/Tridy_objekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Polymorfismus.iml" filepath="$PROJECT_DIR$/.idea/Polymorfismus.iml" />
     </modules>
   </component>
 </project>
